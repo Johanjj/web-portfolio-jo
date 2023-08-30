@@ -1,9 +1,0 @@
-# Remove HTML Extension from the URL
-# Change to .php if using PHP Extension
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.html -f
-RewriteRule ^(.*)$ $1.html [NC,L]
-
-# Random URL Redirect to 404 Page Not Found
-ErrorDocument 404 /not-found.html
