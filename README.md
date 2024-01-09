@@ -2,4 +2,4 @@
 
 My web portfolio. Still on progress.
 
-Last updated August 30, 2023.
+Last updated January 9, 2024.
