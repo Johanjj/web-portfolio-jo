@@ -1,5 +1,6 @@
 # Johan Jeques | Web Portfolio
 
-My web portfolio. Still on progress.
+Link to my web portfolio: https://johanjeques.netlify.app/
+Still on progress.
 
 Last updated January 9, 2024.
